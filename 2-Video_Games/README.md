@@ -275,29 +275,4 @@ These metrics provide complementary views of model quality:
 
 ---
 
-## Project Structure
-
-Example structure:
-```bash
-video-game-sales-ann/
-│
-├── data/
-│   └── Video_Games.csv
-│
-├── notebooks/
-│   └── video_games_neural_network.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model.py
-│   └── train.py
-│
-├── outputs/
-│   ├── plots/
-│   ├── trained_models/
-│   └── metrics/
-│
-├── requirements.txt
-└── README.md
 
