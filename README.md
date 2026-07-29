@@ -72,12 +72,8 @@ This project focuses on the video game sales dataset to understand market dynami
 - **Optimization:** `deap` (for genetic algorithms, if used)
 - **Environment:** Jupyter Notebook
 
-## Setup and Installation
 
-To run these notebooks locally, follow these steps:
 
-1.  **Clone the repository:**
-```bash
-git clone https://github.com/YourUsername/Data-Science-and-Deep-Learning-Applications.git
+
 cd Data-Science-and-Deep-Learning-Applications
 
